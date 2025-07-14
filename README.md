@@ -1,3 +1,6 @@
+<img width="638" height="211" alt="hotel_operations" src="https://github.com/user-attachments/assets/2739774d-664e-4a20-a86d-f31c89246403" />
+
+
 # LuxurStay Data Cleaning & Analysis
 
 This repository contains SQL solutions for the **LuxurStay Hotels** data-quality and performance analysis project. All queries run in a read-only SQL environment, exposing results as named CTEs for easy consumption.
