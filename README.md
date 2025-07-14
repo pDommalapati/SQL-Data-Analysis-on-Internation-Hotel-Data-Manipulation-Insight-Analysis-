@@ -2,6 +2,7 @@
 
 
 # LuxurStay Data Cleaning & Analysis
+# Author: Praveen Dommalapati
 
 This repository contains SQL solutions for the **LuxurStay Hotels** data-quality and performance analysis project. All queries run in a read-only SQL environment, exposing results as named CTEs for easy consumption.
 
@@ -71,7 +72,3 @@ This repository contains SQL solutions for the **LuxurStay Hotels** data-quality
 ## Contributing
 
 Contributions are welcome via pull requests. Please follow existing query style and naming conventions.
-
-## License
-
-This project is released under the **MIT License**. See [LICENSE](LICENSE) for details.
